@@ -72,6 +72,6 @@ def stats(name):
 
 while True:
   print()
-  name = input("What is your Battletag? Please reply as it is in the stats url")
+  name = input("What is your Battletag? Please reply as it is in the stats url\n")
 
   stats(name)
